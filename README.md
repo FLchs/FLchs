@@ -1,6 +1,6 @@
 # 👋 François Lachèse
 
-Hi, I'm François — a pragmatic engineer based in France who builds things with intention and efficiency.
+Hi, I'm François, a pragmatic engineer based in France who builds things.
 
 ## ⚙️ Tech Stack
 
