@@ -1,38 +1,33 @@
-# 👋 François Lachèse
+# François Lachèse
 
-Hi, I'm François, a pragmatic engineer based in France who builds things.
+Fullstack developer (Node.js / React / TypeScript)
 
-## ⚙️ Tech Stack
+6+ years building web & mobile apps in small teams and startups.  
+Focus: clean code, performance, scalability, and shipping things that work.
 
-- **Languages**: TypeScript (mainly), a bit of Python
-- **Frontend**: React, Tailwind, TUI (ncurses), Markdown
-- **Backend**: Hono, Express, Drizzle, Prisma, PostgreSQL, SQLite, MySQL
-- **Tools**: Neovim, tmux, Arch Linux, GitHub Actions, k3s
-- **Self-hosting**: Home Assistant, Jellyfin, Lidarr, Navidrome, and more
+## Skills
 
-## 🛠️ Projects & Hobbies
+- TypeScript · JavaScript
+- React · React Native
+- Node.js · Express · Prisma
+- PostgreSQL · MySQL · SQLite
+- AWS · Docker · Kubernetes · Helm  
+- Git / CI-CD (GitHub Actions, Gitea)  
 
-- 🔧 Building **fullstack TypeScript apps** with modern tools like Hono, Bun, Drizzle, and TanStack
-- 🧭 Designing terminal UI tools like [`cursedtodo`](https://github.com/FLchs/cursedtodo)
-- 🧠 Automating my digital life (and occasionally breaking it) with Home Assistant, ESPHome, and Zigbee
-- 🎸 Playing guitar and crafting music playlists
-- 🛰️ Hosting my own services, running Kubernetes on low-power gear, and advocating for **data ownership**
+## Projects
 
-## 🚧 Currently Experimenting With
+- **[Car Manager 3000](https://github.com/FLchs/carmanager3000)**  
+  Open-source car maintenance tracker (React + TypeScript / Orpc + Hono + Drizzle)
 
-- Fullstack development using **Bun**, **Hono**, and **TanStack** libraries
-- Refining a minimalist personal ecosystem (mail, notes, passwords, tasks)
-- Learning about audio tagging, FOSS, and long-term digital autonomy
+- **[CursedTodo](https://github.com/FLchs/cursedtodo)**  
+  Minimal terminal task manager in Python + ncurses (CalDAV compatible)
 
-## 📌 Philosophy
+- **Kubernetes Homelab**  
+  Personal K3s cluster running Home Assistant, Nextcloud, Lidarr… with Helm & automated CI/CD
 
-- 🦾 If you don’t control the stack, the stack controls you.
-- 📵 No dark patterns, no vendor lock-in, no "cloud for cloud’s sake".
-- 🧱 Open-source over everything. If it's broken, I’ll fix it... or build my own.
+## Contact
 
-## 📬 Reach out
+- [LinkedIn](https://linkedin.com/in/francois-lachese)  
+- [Malt](https://www.malt.fr/profile/francoislachese)
 
-If you're into FOSS, self-hosting, or looking for a remote developer/devops engineer, let's talk.
-
-> “Don't ask what the system can do. Ask how you can replace it.”
-
+Open to interesting opportunities — feel free to reach out.
